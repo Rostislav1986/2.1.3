@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39469d75-1890-461a-af8e-58ffb896c7cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Program Files/apache-maven-3.8.6/bin",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "d1f1c02f3cd2b35f4567a3b205c287bf"
   }
 }]]></component>
   <component name="RunManager" selected="JUnit.MainTest">
@@ -97,6 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664128144163</updated>
       <workItem from="1664128149383" duration="5396000" />
+      <workItem from="1664135479213" duration="316000" />
     </task>
     <servers />
   </component>
